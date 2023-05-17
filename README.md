@@ -2,7 +2,7 @@
 Unsteady Full Multi-wake Vortex Lattice Method ("original" version; only for multi-wake dynamics verification).
 Fortran (Visual Studio Project)
 
-1. You should have installed Visual Studio 2017 (or higher version) and "GiD" (pre and post-processor; www.gidsimulation.com).
+1. You should have installed Visual Studio 2017 (or higher version with Fortran compiler) and "GiD" (pre and post-processor; www.gidsimulation.com).
 2. Open UMultiVLM.vfproj
 3. Go to input.txt (optional to change parameters).
 4. Press "start" to run the code (and wait for it to finish).

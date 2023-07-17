@@ -7,4 +7,4 @@ Fortran (Visual Studio Project)
 3. Go to input.txt (optional to change parameters).
 4. Press "start" to run the code (and wait for it to finish).
 5. To visualize the results (multi-wake dynamics) change to post-processor mode in GiD and open/drag the .msh file.
-6. Enjoy!
+6. Enjoy the spiderwebs!

@@ -1,5 +1,6 @@
 # o-UMultiVLM
-Unsteady Full Multi-wake Vortex Lattice Method ("original" version; only for multi-wake dynamics verification).
+The Unsteady Full Multi-wake Vortex Lattice Method (UFVLM; "original" version: only for multi-wake dynamics verification).
+
 Fortran (Visual Studio Project)
 
 1. You should have installed Visual Studio 2017 (or higher version with Fortran compiler) and "GiD" (pre and post-processor; www.gidsimulation.com).

@@ -10,4 +10,3 @@ Fortran (Visual Studio Project)
 5. To visualize the results (multi-wake dynamics) change to post-processor mode in GiD and open/drag the .msh file.
 6. Enjoy the spiderwebs!
 
-Note: The new version (v1.1; Jan/2024) includes a 4x13 mesh (AR = 4); besides, parameter "lambda" has been renamed as "low_phi" (lowercase phi) to maintain consistency with the most recent manuscript version.
